@@ -1835,6 +1835,12 @@ ul, ol {
 	}
 }
 
+@media only screen and (min-width: 480px) and (max-width: 2560px) {
+	.logo-area {
+		background: black;
+	}
+}
+
 /* Tablet :768px. */
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
